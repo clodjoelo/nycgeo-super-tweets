@@ -12,13 +12,16 @@ Priority 1 - Geo Tagged Tweets inside land mass boundaries by Borough from CSV l
 
 FYI - Will need to place your own OAuths in the LoadTwitter class!
 
-FYI2- JAR Files that will need to be included for the code to execute;
+----------------------------------------------------------------------------------------------------------------
+FYI 2- JAR Files that will need to be included for the code to execute;
 
 Open CSV Java CSV file reader (3.9) https://sourceforge.net/projects/opencsv/
 
 Twitter 4J (4.0.4) http://twitter4j.org/en/
 
-Borough boundary data exported from: https://data.cityofnewyork.us/City-Government/NYC_Borough/65w2-k4jf
+-----------------------------------------------------------------------------------------------------------------
+
+Borough boundary data (borbounds.csv) extracted from: https://data.cityofnewyork.us/City-Government/NYC_Borough/65w2-k4jf
 
 Check out my data vis I made from this code!
 
